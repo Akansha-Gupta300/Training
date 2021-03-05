@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'primeicons/primeicons.css';
+@import 'primeng/resources/themes/saga-blue/theme.css';
+@import 'primeng/resources/primeng.min.css';
+
+html, body { height: 100%; }
+* { margin: 0; font-family: 'Roboto Slab', serif; }
+
+
+body{
+  background-image: url('/assets/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: 100vw 92vh;
+  background-color: rgb(225, 225, 233);
+}
+hr{
+  border-color: darkgray;
+}
+
+.row {
+    margin-right: 0 !important;
+}

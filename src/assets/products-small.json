@@ -1,0 +1,124 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "Air India",
+			"description": "Product Description",
+			"image": "../../assets/airIndia.png",
+			"price": 65,
+			"category": "Domestic",
+			"quantity": 24,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "Air Asia",
+			"description": "Product Description",
+			"image": "../../assets/airAsia.png",
+			"price": 72,
+			"category": "Domestic",
+			"quantity": 61,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"name": "SpiceJet",
+			"description": "Product Description",
+			"image": "../../assets/spicejet.png",
+			"price": 79,
+			"category": "International",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3
+		},
+		{
+			"id": "1003",
+			"code": "244wgerg2",
+			"name": "IndiGo",
+			"description": "Product Description",
+			"image": "../../assets/download.png",
+			"price": 29,
+			"category": "Domestic",
+			"quantity": 25,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1004",
+			"code": "h456wer53",
+			"name": "Air Asia",
+			"description": "Product Description",
+			"image": "../../assets/airAsia.png",
+			"price": 15,
+			"category": "Domestic",
+			"quantity": 73,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1005",
+			"code": "av2231fwg",
+			"name": "SpiceJet",
+			"description": "Product Description",
+			"image": "../../assets/spicejet.png",
+			"price": 120,
+			"category": "Domestic",
+			"quantity": 0,
+			"inventoryStatus": "OUTOFSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1006",
+			"code": "bib36pfvm",
+			"name": "IndiGo",
+			"description": "Product Description",
+			"image": "../../assets/download.png",
+			"price": 32,
+			"category": "Domestic",
+			"quantity": 5,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3
+		},
+		{
+			"id": "1007",
+			"code": "mbvjkgip5",
+			"name": "Air India",
+			"description": "Product Description",
+			"image": "../../assets/airIndia.png",
+			"price": 34,
+			"category": "Domestic",
+			"quantity": 23,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1008",
+			"code": "vbb124btr",
+			"name": "Air France",
+			"description": "Product Description",
+			"image": "../../assets/airFrance.png",
+			"price": 99,
+			"category": "International",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1009",
+			"code": "cm230f032",
+			"name": "Air France",
+			"description": "Product Description",
+			"image": "../../assets/airFrance.png",
+			"price": 299,
+			"category": "International",
+			"quantity": 63,
+			"inventoryStatus": "INSTOCK",
+			"rating": 3
+		}
+	]
+}
